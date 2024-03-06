@@ -1,5 +1,6 @@
-# internship-tasks-bsk
+# internship-tasks-index
 
+github repo include codes and readme with used commands
 
 1. React app deployment on s3.
 
