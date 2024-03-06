@@ -1,7 +1,5 @@
 # internship-tasks-bsk
 
-Task List by Sarveshwar
--Shaswat
 
 1. React app deployment on s3.
 
