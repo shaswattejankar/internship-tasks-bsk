@@ -6,7 +6,7 @@ github repo include codes and readme with used commands
 
 2. React app CICD.
 
-3. GitHub workflows for React app. - shaswattejankar/react-actions (github.com)
+3. GitHub workflows for React app. - [link](https://github.com/shaswattejankar/reusable-workflow-test) [app link](https://github.com/shaswattejankar/react-actions)
 
 4. Installation of web server functionality such as Apache or nginx on EC2.
 
@@ -18,7 +18,7 @@ github repo include codes and readme with used commands
 
 8. Introduction to Docker.
 
-9. Dockerized Python flask application and deployment on EC2. - shaswattejankar/basic-dockerized-flask-app (github.com)
+9. Dockerized Python flask application and deployment on EC2. - [link](https://github.com/shaswattejankar/basic-dockerized-flask-app)
 
 10. SDK- Boto3.
 
@@ -27,9 +27,9 @@ github repo include codes and readme with used commands
   ii) IAM
   iii) EC2 , etc.
 
-13. Automation of creating IAM users and assigning IAM groups to users by reading the .yaml file using boto3 - shaswattejankar/create-iam-users-and-groups-yaml (github.com)
+13. Automation of creating IAM users and assigning IAM groups to users by reading the .yaml file using boto3 - [link](https://github.com/shaswattejankar/create-iam-users-and-groups-yaml)
 
 13. Listing aws lambda functions by extracting JSON.
 
-14. Deploy a Python Hello World app on ec2 instance - shaswattejankar/py-flask-ec2 (github.com)
+14. Deploy a Python Hello World app on ec2 instance -[link](https://github.com/shaswattejankar/py-flask-ec2)
 
