@@ -6,7 +6,7 @@ github repo include codes and readme with used commands
 
 2. React app CICD.
 
-3. GitHub workflows for React app. - [link](https://github.com/shaswattejankar/reusable-workflow-test) [app link](https://github.com/shaswattejankar/react-actions)
+3. GitHub workflows for React app. - [link](https://github.com/shaswattejankar/reusable-workflow-test) and [app link](https://github.com/shaswattejankar/react-actions)
 
 4. Installation of web server functionality such as Apache or nginx on EC2.
 
