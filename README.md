@@ -36,7 +36,7 @@ github repo include codes and readme with used commands
 15. Github composite-actions on organization repo:
       i)For react WebApp.
     -> Used a composite action to print a hello message, build and deploy with node to s3 bucket
-    (Link to Organisation Repo having React App)[https://github.com/githubs-free-organization/react-basic-app)
-    (Link to Composite Action Repo)[https://github.com/githubs-free-organization/hello-world-composite-action]
+    [Link to Organisation Repo having React App](https://github.com/githubs-free-organization/react-basic-app)
+    [Link to Composite Action Repo](https://github.com/githubs-free-organization/hello-world-composite-action)
 
 
