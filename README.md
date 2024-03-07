@@ -35,7 +35,7 @@ github repo include codes and readme with used commands
 
 15. Github composite-actions on organization repo:
       i)For react WebApp.
-    -> Used a composite action to print a hello message, create a build, and deploy with node to s3 bucket where the basic react app is hosted with static site generation link for this: http://actions-bucket.s3-website.us-east-2.amazonaws.com/
+    -> Created a composite action to print a hello message, create a build, and deploy with node to s3 bucket where the basic react app is hosted with static site generation link for this: http://actions-bucket.s3-website.us-east-2.amazonaws.com/
     
     [Link to Organisation Repo having React App](https://github.com/githubs-free-organization/react-basic-app)
     
