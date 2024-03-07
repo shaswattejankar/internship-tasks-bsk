@@ -35,16 +35,16 @@ github repo include codes and readme with used commands
 
 15. Github composite-actions on organization repo:
       i)For react WebApp.
-    -> Used a composite action to print a hello message, build and deploy with node to s3 bucket
+    -> Used a composite action to print a hello message, create a build, and deploy with node to s3 bucket where the basic react app is hosted with static site generation link for this: http://actions-bucket.s3-website.us-east-2.amazonaws.com/
     
     [Link to Organisation Repo having React App](https://github.com/githubs-free-organization/react-basic-app)
     
-    [Link to Composite Action Repo](https://github.com/githubs-free-organization/hello-world-composite-action)
+    [Link to Composite Action Repo under same Organization](https://github.com/githubs-free-organization/hello-world-composite-action)
 
-16. GitHub reusable workflows for the React app.
+16. GitHub reusable workflows for the React app. Similarly, I created a cid for a basic react app to build and deploy on s3, link: http://reusable-workflows-test.s3-website.us-east-2.amazonaws.com/
 
     [link to React App repo that uses the "caller workflow"](https://github.com/shaswattejankar/react-actions)
 
-    [link to the Called / Reusable Workflow that is called by the above caller wokflow](https://github.com/shaswattejankar/reusable-workflow-test)
+    [link to the Called / Reusable Workflow that is called by the above caller workflow](https://github.com/shaswattejankar/reusable-workflow-test)
 
 
