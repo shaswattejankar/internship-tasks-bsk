@@ -47,4 +47,10 @@ github repo include codes and readme with used commands
 
     [link to the Called / Reusable Workflow that is called by the above caller workflow](https://github.com/shaswattejankar/reusable-workflow-test)
 
+17. Maven app deployment on AWS EC2. Built and deployed a basic maven app using Jenkins slave on ec2
+
+    [link to Github Repo](https://github.com/shaswattejankar/hello-world-1/tree/master)
+
+    [Link to hosted Jenkins](http://18.190.154.166:8080/ ) with login: guest and password: guest
+
 
