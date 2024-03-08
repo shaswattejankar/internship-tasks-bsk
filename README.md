@@ -51,6 +51,6 @@ github repo include codes and readme with used commands
 
     [link to Github Repo](https://github.com/shaswattejankar/hello-world-1/tree/master)
 
-    [Link to ec2 server](http://18.190.154.166:8080/ ) with login: guest and password: guest
+    [Link to temporary ec2 server](http://18.190.154.166:8080/ ) with login: guest and password: guest
 
 
