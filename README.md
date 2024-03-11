@@ -55,12 +55,23 @@ Completed Tasks from Sarveshwar's List -> 16 (+ 1 extra)
 
     [Link to temporary ec2 server](http://18.190.154.166:8080/ ) with login: guest and password: guest
 
+18. CICD for spring boot application on aws EC2: 
+
+    i)Github composite-actions
+
+        [link to github repo](https://github.com/shaswattejankar/hello_springboot_composite)
+
+        [link to repo holding the composite action](https://github.com/shaswattejankar/springboot_composite_action)
+
+    ii)GitHub workflows
+
+        [link to github repo](https://github.com/shaswattejankar/springboot-demo)
+
+        [link to repo having the reusable workflow](https://github.com/shaswattejankar/resuable-springboot-workflow)
+
 -----
 Pending Tasks -> 10 :
 
-7. CICD for spring boot application on aws EC2: 
-    i)Github composite-actions 
-    ii)GitHub workflows
     
 8. Maven app deployment on ECS - Fargate
 
