@@ -2,7 +2,7 @@
 
 github repo include codes and readme with used commands
 
-Completed Tasks from Sarveshwar's List -> 16 (+ 1 extra)
+Completed Tasks from Sarveshwar's List -> 17 (+ 1 extra)
 
 1. React app deployment on s3.
 
@@ -70,7 +70,7 @@ Completed Tasks from Sarveshwar's List -> 16 (+ 1 extra)
     [link to repo having the reusable workflow](https://github.com/shaswattejankar/resuable-springboot-workflow)
 
 -----
-Pending Tasks -> 10 :
+Pending Tasks -> 9 :
 
     
 8. Maven app deployment on ECS - Fargate
