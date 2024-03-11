@@ -2,6 +2,8 @@
 
 github repo include codes and readme with used commands
 
+Completed Tasks from Sarveshwar's List -> 16 (+ 1 extra)
+
 1. React app deployment on s3.
 
 2. React app CICD.
@@ -54,7 +56,8 @@ github repo include codes and readme with used commands
     [Link to temporary ec2 server](http://18.190.154.166:8080/ ) with login: guest and password: guest
 
 -----
-Pending:
+Pending Tasks -> 10 :
+
 7. CICD for spring boot application on aws EC2: 
     i)Github composite-actions 
     ii)GitHub workflows
