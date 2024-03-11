@@ -59,15 +59,15 @@ Completed Tasks from Sarveshwar's List -> 16 (+ 1 extra)
 
     i)Github composite-actions
 
-        [link to github repo](https://github.com/shaswattejankar/hello_springboot_composite)
+    [link to github repo](https://github.com/shaswattejankar/hello_springboot_composite)
 
-        [link to repo holding the composite action](https://github.com/shaswattejankar/springboot_composite_action)
+    [link to repo holding the composite action](https://github.com/shaswattejankar/springboot_composite_action)
 
     ii)GitHub workflows
 
-        [link to github repo](https://github.com/shaswattejankar/springboot-demo)
+    [link to github repo](https://github.com/shaswattejankar/springboot-demo)
 
-        [link to repo having the reusable workflow](https://github.com/shaswattejankar/resuable-springboot-workflow)
+    [link to repo having the reusable workflow](https://github.com/shaswattejankar/resuable-springboot-workflow)
 
 -----
 Pending Tasks -> 10 :
