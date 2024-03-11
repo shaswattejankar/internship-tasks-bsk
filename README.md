@@ -58,18 +58,27 @@ Pending:
 7. CICD for spring boot application on aws EC2: 
     i)Github composite-actions 
     ii)GitHub workflows
+    
 8. Maven app deployment on ECS - Fargate
+
 9. 3-tier architecture creation
+
 10. Introduction to terraform.
+
 11. Terraform implementations on various services: 
     i) 3-tier architecture creation using terraform 
     ii) learning the various concepts of terraform. Eg: Data types, variables declaration, loops, implementations infrastructure as a code.
-    12. Deployment of My Personal Minor Project of Python on EC2.
+
+12. Deployment of My Personal Minor Project of Python on EC2.
+
 19. Dockerized LAMP stack application: 
     i) Docker-compose implementation. 
     ii) Dockerfile implementations.
+
 20. Dockerized maven - springboot application.
+
 25. Cron jobs and CPU utilization monitoring.
+
 26. App deployment on ECS - using EC2 and attaching the application load balancer
 
 
