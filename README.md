@@ -2,7 +2,7 @@
 
 github repo include codes and readme with used commands
 
-Completed Tasks from Sarveshwar's List -> 17 (+ 1 extra)
+Completed Tasks from Sarveshwar's List -> 18 (+ 1 extra)
 
 1. React app deployment on s3.
 
@@ -69,9 +69,16 @@ Completed Tasks from Sarveshwar's List -> 17 (+ 1 extra)
 
     [link to repo having the reusable workflow](https://github.com/shaswattejankar/resuable-springboot-workflow)
 
------
-Pending Tasks -> 9 :
+19. Cron jobs and CPU utilization monitoring.
 
+    i. What are corn jobs, basic cron jobs, and job to log the cpu usage in a log file
+    
+    ii. Basics of CloudWatch w.r.t ec2 instance, the different types of metrics, and how to creat a alert for when a cpu or disk usage goes above a threshold  for a ec2 instance
+
+-----
+Pending Tasks -> 8 :
+
+Only docker and Terraform adv tasks remain
     
 8. Maven app deployment on ECS - Fargate
 
@@ -90,8 +97,6 @@ Pending Tasks -> 9 :
     ii) Dockerfile implementations.
 
 20. Dockerized maven - springboot application.
-
-25. Cron jobs and CPU utilization monitoring.
 
 26. App deployment on ECS - using EC2 and attaching the application load balancer
 
