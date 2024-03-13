@@ -2,7 +2,7 @@
 
 github repo include codes and readme with used commands
 
-Completed Tasks from Sarveshwar's List -> 18 (+ 1 extra)
+Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
 
 1. React app deployment on s3.
 
@@ -74,6 +74,18 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 1 extra)
     i. What are corn jobs, basic cron jobs, and job to log the cpu usage in a log file
     
     ii. Basics of CloudWatch w.r.t ec2 instance, the different types of metrics, and how to creat a alert for when a cpu or disk usage goes above a threshold  for a ec2 instance
+
+20. Boto3 implementation for tasks done in console:
+
+    i. S3 Bucket Actions using AWS SNS. [ Link to repo holding the Code ](https://github.com/shaswattejankar/aws-s3-sns-with-lambda)
+
+    ii. React App Deployment on S3 / Static Site Hosting on S3.
+
+    iii. S3 bucket synchronisation in same region ( for different regions extra charges are required).
+
+    iv. Installation of web server functionality of Apache and nginx on a ec2 instance.
+
+    v. Dockerized Python flask application and deployment on EC2. Already created a dockerized python flask app and added to Docker hub, using that do the remaining parts.
 
 -----
 Pending Tasks -> 8 :
