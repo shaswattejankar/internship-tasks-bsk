@@ -79,7 +79,7 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
 
     i. S3 Bucket Actions using AWS SNS. [ Link to repo holding the Code ](https://github.com/shaswattejankar/aws-s3-sns-with-lambda)
 
-    ii. React App Deployment on S3 / Static Site Hosting on S3.
+    ii. React App Deployment on S3 / Static Site Hosting on S3. [ Link to repo holding the Code ](https://github.com/shaswattejankar/aws-s3-react-app-deployment)
 
     iii. S3 bucket synchronisation in same region ( for different regions extra charges are required).
 
