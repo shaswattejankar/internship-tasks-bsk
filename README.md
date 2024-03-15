@@ -81,11 +81,13 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
 
     ii. React App Deployment on S3 / Static Site Hosting on S3. [ Link to repo holding the Code ](https://github.com/shaswattejankar/aws-s3-react-app-deployment)
 
-    iii. S3 bucket synchronisation in same region ( for different regions extra charges are required).
+    iii. Static Site deployment on S3 bucket. [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-s3-static-website-deployment-boto3)
 
-    iv. Installation of web server functionality of Apache and nginx on a ec2 instance.
+    iv. S3 bucket synchronisation in same region ( for different regions extra charges are required).
 
-    v. Dockerized Python flask application and deployment on EC2. Already created a dockerized python flask app and added to Docker hub, using that do the remaining parts.
+    v. Installation of web server functionality of Apache and nginx on a ec2 instance.
+
+    vi. Dockerized Python flask application and deployment on EC2. Already created a dockerized python flask app and added to Docker hub, using that do the remaining parts.
 
 -----
 Pending Tasks -> 8 :
