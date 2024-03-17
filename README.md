@@ -83,7 +83,7 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
 
     iii. Static Site deployment on S3 bucket. [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-s3-static-website-deployment-boto3)
 
-    iv. S3 bucket synchronisation in same region ( for different regions extra charges are required).
+    iv. S3 synchronization of a bucket from one region to another. [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-s3-bucket-synchronisation-srr-crr)
 
     v. Installation of web server functionality of Apache and nginx on a ec2 instance.
 
