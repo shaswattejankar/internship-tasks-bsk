@@ -90,7 +90,7 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
     vi. Dockerized Python flask application and deployment on EC2. Already created a dockerized python flask app and added to Docker hub, using that do the remaining parts.
 
 -----
-Pending Tasks -> 8 :
+Pending Tasks from Sarveshwar's lists -> 8 :
 
 Only docker and Terraform adv tasks remain
     
