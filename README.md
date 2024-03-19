@@ -85,7 +85,7 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
 
     iv. S3 synchronization of a bucket from one region to another. [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-s3-bucket-synchronisation-srr-crr)
 
-    v. Installation of web server functionality of Apache and nginx on a ec2 instance.
+    v. Installation of web server functionality of Apache and nginx on a ec2 instance. [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-ec2-nginx-installation-boto3)
 
     vi. Dockerized Python flask application and deployment on EC2. Already created a dockerized python flask app and added to Docker hub, using that do the remaining parts.
 
