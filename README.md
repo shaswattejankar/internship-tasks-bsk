@@ -2,7 +2,7 @@
 
 github repo include codes and readme with used commands
 
-Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
+Completed Tasks from Sarveshwar's List -> 18 (+ 4 extra)
 
 1. React app deployment on s3.
 
@@ -94,6 +94,8 @@ Completed Tasks from Sarveshwar's List -> 18 (+ 2 extra)
       b. Using python flask app repository [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-python-flask-github-ec2)
 
 21. What is?: Stateless and Stateful applications, REST API, caching, session management, and Load Balancing (+ with Python web app)
+
+22. Created a boto3 function that encrypts JSON data using an aws kms key, stores the encrypted data locally, uploads it to s3, and decrypts the stored data [ Link to repo holding the code ](https://github.com/shaswattejankar/aws-s3-kms-encrypted-object-upload)
 
 -----
 Pending Tasks from Sarveshwar's lists -> 8 :
